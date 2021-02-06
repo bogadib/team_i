@@ -32,3 +32,4 @@ def smaco(tf,ts):
     print("current condtion is:", condition[-1])
 
 smaco(3,5)
+print('i can able to edit the file')
