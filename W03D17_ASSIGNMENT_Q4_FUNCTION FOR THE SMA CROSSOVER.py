@@ -33,3 +33,4 @@ def smaco(tf,ts):
 
 smaco(3,5)
 print('i can able to edit the file')
+print('second check')
